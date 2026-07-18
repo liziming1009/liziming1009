@@ -1,4 +1,4 @@
-# Hi there, I'm Liziming!
+# Hi there, I'm Yiyang Li!
 
 👨‍🎓 **Education**  
 🎓 Master's Degree in Computer Science (Data Science & AI)  
